@@ -11,6 +11,6 @@ This project aims to provide guidance on optimal eDNA sampling periods and stand
 > [!NOTE]
 > Our 2025 paper describes the structure and functionalities of our GOTeDNA Shiny application:
 > 
-> Lacoursiere-Roussel, A., Morrison, M.K., ..... (in preparation). GOTeDNA: An R Shiny application to provide Guidance on Optimal Timing for environmental DNA. 
+>  Lacoursière-Roussel A, Head KJ, McLean L, Morrison MK, Barrett TJ, Beauchesne D, Cazelles K , Chevrinais M, DiBacco C,  Ferchaud A-L, Gagné N,  Gomez C, Grey EK, Jeffery NW, Kinnison MT, LeBlanc F, McBride MC, Parent G, Trudel M, Howland K (under review) GOTeDNA: a centralized interactive guidance and reporting tool for eDNA. Environmental DNA. 
 
 $$\color{#FF0000}{Please \space follow \space us \space for \space updates! \space The \space GOTeDNA \space package \space will \space be \space made \space available \space shortly.}$$
